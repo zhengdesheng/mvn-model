@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="data-proxy-console-third-interface:war">
+    <output-path>$PROJECT_DIR$/data-proxy-console-third-interface/target</output-path>
+    <root id="archive" name="data-proxy-console-third-interface-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="data-proxy-console-third-interface:war exploded" />
+    </root>
+  </artifact>
+</component>

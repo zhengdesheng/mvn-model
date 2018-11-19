@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="data-proxy-console-test" />
+        <module name="data-proxy-console-third-interface" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="data-proxy-console" target="1.5" />
+      <module name="data-proxy-console-test" target="1.5" />
+      <module name="data-proxy-console-third-interface" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

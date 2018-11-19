@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/data-proxy-console.iml" filepath="$PROJECT_DIR$/data-proxy-console.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data-proxy-console-test/data-proxy-console-test.iml" filepath="$PROJECT_DIR$/data-proxy-console-test/data-proxy-console-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data-proxy-console-third-interface/data-proxy-console-third-interface.iml" filepath="$PROJECT_DIR$/data-proxy-console-third-interface/data-proxy-console-third-interface.iml" />
+    </modules>
+  </component>
+</project>

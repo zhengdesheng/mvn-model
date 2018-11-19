@@ -1,0 +1,21 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="data-proxy-console-third-interface:war exploded">
+    <output-path>$PROJECT_DIR$/data-proxy-console-third-interface/target/data-proxy-console-third-interface-1.0-SNAPSHOT</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="data-proxy-console-third-interface" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="archive" name="data-proxy-console-test-1.0-SNAPSHOT.jar">
+            <element id="module-output" name="data-proxy-console-test" />
+          </element>
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/data-proxy-console-third-interface/target/data-proxy-console-third-interface-1.0-SNAPSHOT/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="data-proxy-console-third-interface/web/Web" />
+    </root>
+  </artifact>
+</component>
